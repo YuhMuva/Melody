@@ -49,7 +49,7 @@
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#D9AAB8",
-      "#D9AAB8"
+      "#1D1212"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#F8CAD7",
@@ -57,7 +57,7 @@
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#D9AAB8",
-      "#1D1212"
+      "#D9AAB8"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#F6E1E8",
