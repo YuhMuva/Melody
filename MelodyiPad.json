@@ -1,5 +1,5 @@
 {
-  "name": "MelodyiPad",
+  "name": "Melody 2",
   "author": "YuhMuva#1799",
   "version": "1",
   "description": "A theme dedicated to Melody for iPad! (And Femboys)",
@@ -10,8 +10,8 @@
     }
   ],
   "background": {
-    "blur": "0",
-    "url": "https://wallpaperaccess.com/download/my-melody-sanrio-160439",
+    "blur": "5",
+    "url": "https://www.pixelstalk.net/wp-content/uploads/images7/My-Melody-Wide-Screen-Wallpaper-HD.jpg",
     "alpha": "0.69"
   },
   "theme_color_map": {
@@ -116,7 +116,7 @@
     "PRIMARY_DARK_700": "#D9AAB8",
     "PRIMARY_DARK_800": "#D9AAB8",
     "BRAND_NEW": "#1D1212",
-    "WHITE": "#4A4947"
+    "WHITE": "#F6E1E8"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#F8CAD7"
